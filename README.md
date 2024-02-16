@@ -1,8 +1,5 @@
 # Autonomous Agent for Test-Driven Development (TDD)
 
-"Programmers have programmed themselves out of jobs" - Unknown
-
-[![tddGPT: ReactJS Counter App with GPT3.5](https://cdn.loom.com/sessions/thumbnails/7f56ab1b478049baa299813c223526bd-with-play.gif)](https://www.loom.com/share/7f56ab1b478049baa299813c223526bd)
 
 tddGPT is an autonomous coding agent that builds applications in ReactJS, Flask, Express, and more, all while adhering to the Test-Driven Development (TDD) methodology. It operates entirely without human intervention. Beginning with a project plan, tddGPT translates requirements into tests, develops code based on those tests, and debugs until all tests pass. The TDD framework keeps the agent focused and goal-oriented.
 
@@ -83,6 +80,3 @@ We welcome contributions to this project. Please feel free to submit issues and 
 
 This project is open source, under the [MIT license](LICENSE).
 
-## Contact
-
-If you have any questions or comments, please feel free to reach out to us on GitHub.
